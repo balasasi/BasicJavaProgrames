@@ -1,8 +1,7 @@
-2. Adding Two number 
--------------------
-
-Step 1
-------
+//2. Adding Two number 
+//-------------------
+//Step 1
+//------
 
 import java.util.stream.Stream;
 
@@ -19,8 +18,8 @@ class PractiseProblem
     
 }
 
-Step 2
-------
+//Step 2
+//------
 
 import java.util.stream.Stream;
 
