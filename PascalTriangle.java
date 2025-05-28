@@ -35,7 +35,11 @@ public class PascalTriangle {
 //   1   5   10   10   5   1
 
 
-
+//   same Star Pattern
+//     *
+//    ***
+//   *****
+ // *******
 
 public class PascalTriangleStepTwo {
     public static void main(String[] args) 
